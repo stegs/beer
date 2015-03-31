@@ -1,6 +1,26 @@
 <resources>
-    <string name="app_name">Beer</string>
+    <string name="app_name">Drink Tracker</string>
 
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <!--Main Screen Text-->
+    <string name="add_loc_name">Location: </string>
+    <string name="edit_loc_name">name of restaurant</string>
+    <string name="add_loc_address">Where: </string>
+    <string name="edit_loc_address">address or intersection</string>
+    <string name="edit_loc_city">city</string>
+    <string name="add_beer_bool">Beer?</string>
+    <string name="add_wine_bool">Wine?</string>
+    <string name="edit_wine_type">e.g. Merlot</string>
+    <string name="add_liq_bool">Liquor?</string>
+    <string name="add_liq_type">Type: </string>
+    <string name="add_beer_name">Beer name: </string>
+    <string name="edit_beer_name">e.g. Rolling Rock</string>
+    <string name="add_wine_name">Wine name: </string>
+    <string name="edit_wine_name">e.g. Graffigna</string>
+    <string name="add_liq_name">Liquor name: </string>
+    <string name="edit_liq_name">e.g. Bowmore</string>
+    <string name="add_alc_size">How much? </string>
+    <string name="edit_alc_size">e.g. pint or 5 oz.</string>
+    <string name="add_alc_qty">How many? </string>
+    <string name="edit_alc_qty">1, 2....floor</string>
+    <string name="add_new_drink">Drink something new?</string>
 </resources>

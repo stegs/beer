@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\pre-dexed\debug\classes-9f723113cbb00235def95f0e76ad8d50c722d2d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\Documents\beer\wear\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Ryan\Documents\beer\wear\build\intermediates\pre-dexed\release\classes-3ae429cf0e9d01adf70979224c74c31190e8d0ec.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\pre-dexed\debug\classes-191c71e9f126bd4efe6002b7d277d45d630266ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\Documents\beer\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\Ryan\Documents\beer\wear\build\intermediates\pre-dexed\release\classes-73db93fa3bb7a26cb1760f6972d012e7378a45ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\pre-dexed\debug\classes-e47470cb21f75f92c9a1dad98233511a116e91d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\pre-dexed\debug\classes-7c21f5cf7263764d9e11281b00c1e5962b4da259.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\pre-dexed\debug\classes-8e3361c0e6d90ec28b6bcf8893d987f39df5741c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\pre-dexed\debug\classes-efbe5d5fb297077f9f34d803d8f0d191e6dd94e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\pre-dexed\debug\classes-dc28776182e136263b169edb4552b55d9ed14eeb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\pre-dexed\debug\classes-19472f33d670226566d3579cc7426208cafdbb77.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\pre-dexed\debug\classes-ed8617e152fc26d557269e48c36e91994589d6f1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-4592520d317b5556f8104816f63fb0cb9403659b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\pre-dexed\debug\classes-0871e42c054bb22d15cd9dab5fe80111378f52dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\pre-dexed\debug\classes-d7655ce12a883be6a2dc780bd1d4782024f0003b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\pre-dexed\debug\classes-8f1bd0ff7e0326edf40cf4ac88d212d5eb1a6ade.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\pre-dexed\debug\classes-bb092258249f2f29961ae35d6dd01e60a2ae8947.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\pre-dexed\debug\classes-0bb9e95503f894a154db87437506c26758281b0c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\Documents\beer\wear\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="C:\Users\Ryan\Documents\beer\wear\build\intermediates\pre-dexed\release\classes-960382b7d34309e505401e364d01e7668c351ebd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\pre-dexed\debug\classes-a5af957cb05d62eca2dc224c82fd9b29962235eb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\Documents\beer\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\Ryan\Documents\beer\wear\build\intermediates\pre-dexed\release\classes-bd3db1083bda972c47fae2808c394a59d85e267d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\pre-dexed\debug\classes-3ef71f6af4be455fa186c1be621f5fb0f87fa150.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\pre-dexed\debug\classes-5d36f1f421655e2762912a13a7cce3d0a8780f1b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\pre-dexed\debug\classes-bb6097434505e55f8f3fca93211c9fb568588b26.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\Documents\beer\wear\build\intermediates\exploded-aar\com.google.android.support\wearable\1.1.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="C:\Users\Ryan\Documents\beer\wear\build\intermediates\pre-dexed\release\classes-9b3e88d4aeb710ffff2f8fc3e4cfacbf9817fded.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\pre-dexed\debug\classes-80c25ab91e9eca8958ca76e2c9ef28dafbfb21f0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\Ryan\Documents\beer\mobile\build\intermediates\pre-dexed\debug\classes-3b95eba357c6e7f1fb74ad97645a2f56f3fa8437.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\Documents\beer\wear\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Ryan\Documents\beer\wear\build\intermediates\pre-dexed\release\internal_impl-22.0.0-0e37ac17d2063da5a2c09424ce0cdefb8fa2ef53.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ryan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Ryan\Documents\beer\wear\build\intermediates\pre-dexed\release\support-annotations-22.0.0-f1a929c01abee6f7e514b5fc029e87ce4a5cac0f.jar" />
+    </item>
+
+</items>
